@@ -5,6 +5,4 @@ response:
   headers:
     Content-Type: application/json;charset=UTF-8
   status: 200
-  body:
-    parkingBoyId: 1394cffaee6a
-    name: 张三
+  bodyFromFile: get_parking_boy_response.json
